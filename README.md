@@ -4,11 +4,6 @@ Generate insights for history stored in Google Chrome.
 
 Decrypt your saved passwords and credit card information stored in Google Chrome's local database.
 
-## Using
-
-- [Express 4](http://expressjs.com/)
-- [Redis](https://redis.io/)
-
 ## Folder Structure
 ```
 Browser-password-decrypt/

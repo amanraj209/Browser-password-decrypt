@@ -55,7 +55,7 @@ def decrypt(encrypted, safe_storage_key):
                 "{} 2>/dev/null".format(iv, hex_key, hex_enc_password),
                 shell=True)
     except subprocess.CalledProcessError:
-        decrypted = "Error decrypting th data"
+        decrypted = "Error decrypting the data"
     
     return decrypted
 

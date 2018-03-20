@@ -8,6 +8,7 @@ Decrypt your saved passwords and credit card information stored in Google Chrome
 ```
 Browser-password-decrypt/
     .gitignore
+    decryption.py
     history.py
     README.md
 ```
@@ -17,4 +18,5 @@ Browser-password-decrypt/
 $ git clone https://github.com/amanraj209/Browser-password-decrypt.git
 $ cd Browser-password-decrypt
 $ python history.py
+$ python decryption.py
 ```
